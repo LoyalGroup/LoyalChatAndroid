@@ -9,9 +9,9 @@ import com.quickblox.qmunicate.R;
 public class Consts {
 
     // QuickBlox
-    public static final String QB_APP_ID = "7232";
-    public static final String QB_AUTH_KEY = "MpOecRZy-5WsFva";
-    public static final String QB_AUTH_SECRET = "dTSLaxDsFKqegD7";
+    public static final String QB_APP_ID = "14465";
+    public static final String QB_AUTH_KEY = "Q4Q2nmZEjKq--zS";
+    public static final String QB_AUTH_SECRET = "ejJ-JhDKhJxDVbF";
     public static final String QB_DOMAIN = "api.stage.quickblox.com";
 
     // Friend list consts
